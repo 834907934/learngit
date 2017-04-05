@@ -4,3 +4,6 @@ kkkk11
 
 
 getInitialstate
+
+
+cat study.txt
