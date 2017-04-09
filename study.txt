@@ -9,3 +9,6 @@ getInitialstate
 cat study.txt
 
 $git checkout study.txt
+
+
+webpack --config webpack.config.txt
