@@ -12,3 +12,6 @@ $git checkout study.txt
 
 
 webpack --config webpack.config.txt
+
+
+It's already changsed on april 09 2017
